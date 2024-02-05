@@ -176,6 +176,11 @@ section {
   margin: auto 0;
 }
 
+.section__pic-container-1 {
+  display: flex;
+  margin: auto 0;
+}
+
 .section__text {
   align-self: center;
   text-align: center;
